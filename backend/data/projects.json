@@ -1,0 +1,29 @@
+[
+  {
+    "id": "1",
+    "title": "E-Commerce Platform",
+    "description": "A full-stack e-commerce platform built with React and Node.js featuring shopping cart, payment integration, and admin dashboard.",
+    "image": "https://via.placeholder.com/400x300?text=E-Commerce",
+    "link": "https://github.com/lamarrbtc/ecommerce-platform",
+    "technologies": ["React", "Node.js", "MongoDB", "Stripe"],
+    "createdAt": "2024-01-15T10:30:00.000Z"
+  },
+  {
+    "id": "2",
+    "title": "Task Management App",
+    "description": "A collaborative task management application with real-time updates, team features, and analytics dashboard.",
+    "image": "https://via.placeholder.com/400x300?text=Task+Manager",
+    "link": "https://github.com/lamarrbtc/task-manager",
+    "technologies": ["Vue.js", "Firebase", "TailwindCSS"],
+    "createdAt": "2024-02-20T14:45:00.000Z"
+  },
+  {
+    "id": "3",
+    "title": "Weather Dashboard",
+    "description": "A weather forecasting dashboard with real-time data, interactive maps, and mobile-responsive design.",
+    "image": "https://via.placeholder.com/400x300?text=Weather",
+    "link": "https://github.com/lamarrbtc/weather-app",
+    "technologies": ["React", "OpenWeather API", "Chart.js"],
+    "createdAt": "2024-03-10T09:15:00.000Z"
+  }
+]
