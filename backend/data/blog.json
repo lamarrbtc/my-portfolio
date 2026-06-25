@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "title": "Getting Started with Node.js",
+    "excerpt": "Learn the fundamentals of Node.js and how to build scalable server-side applications...",
+    "content": "Node.js is a powerful JavaScript runtime built on Chrome's V8 JavaScript engine. In this comprehensive guide, we'll explore the fundamentals of Node.js and how to build scalable server-side applications.\n\n## Why Node.js?\n\nNode.js allows you to use JavaScript on the backend, enabling full-stack JavaScript development. It's known for its:\n\n- Non-blocking I/O model\n- Event-driven architecture\n- Large ecosystem of packages via npm\n- Excellent performance for I/O-heavy applications\n\n## Getting Started\n\nTo get started with Node.js, you'll need to install it from nodejs.org and understand the basics of npm packages.",
+    "tags": ["node.js", "backend", "javascript"],
+    "createdAt": "2024-01-10T08:00:00.000Z",
+    "updatedAt": "2024-01-10T08:00:00.000Z"
+  },
+  {
+    "id": "2",
+    "title": "React Best Practices",
+    "excerpt": "Discover essential best practices for building maintainable and performant React applications...",
+    "content": "React has become one of the most popular frontend frameworks for good reason. However, building scalable React applications requires following best practices.\n\n## Key Best Practices\n\n1. **Component Composition**: Break your UI into small, reusable components\n2. **Props and State**: Understand the difference and use them appropriately\n3. **Performance Optimization**: Use React.memo, useMemo, and useCallback\n4. **Hooks**: Leverage modern React hooks for cleaner code\n5. **Testing**: Write comprehensive tests for your components\n\nFollowing these practices will help you build robust React applications.",
+    "tags": ["react", "frontend", "javascript", "best practices"],
+    "createdAt": "2024-02-05T10:30:00.000Z",
+    "updatedAt": "2024-02-05T10:30:00.000Z"
+  }
+]
