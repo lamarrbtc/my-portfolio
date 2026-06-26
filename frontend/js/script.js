@@ -2,7 +2,7 @@
 // CONFIGURATION
 // ============================================
 
-const API_BASE_URL = 'http://localhost:3000/api';
+const API_BASE_URL = '/api';
 
 // ============================================
 // THEME TOGGLE
@@ -245,19 +245,3 @@ document.addEventListener('DOMContentLoaded', () => {
     observer.observe(el);
   });
 });
-
-// ============================================
-// UTILITY FUNCTIONS
-// ============================================
-
-function debounce(func, wait) {
-  let timeout;
-  return function executedFunction(...args) {
-    const later = () => {
-      clearTimeout(timeout);
-      func(...args);
-    };
-    clearTimeout(timeout);
-    timeout = setTimeout(later, wait);
-  };
-}
